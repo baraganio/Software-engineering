@@ -1,0 +1,2 @@
+admin#user@gmail.com#pass#1
+user#user@gmail.com#pass#0
